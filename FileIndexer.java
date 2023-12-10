@@ -1,6 +1,3 @@
-/*
- Put header here
- */
 package it.uniroma3.idd.hw1;
 
 import org.apache.lucene.analysis.Analyzer;
